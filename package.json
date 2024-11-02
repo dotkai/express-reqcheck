@@ -1,0 +1,21 @@
+{
+  "name": "@dotkai/express-reqcheck",
+  "version": "1.0.0",
+  "description": "Validator/In-code documentation aid for express applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "test:unit"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Kai Austin",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.11.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {}
+}
