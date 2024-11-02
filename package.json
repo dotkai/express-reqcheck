@@ -2,6 +2,7 @@
   "name": "@dotkai/express-reqcheck",
   "version": "1.0.0",
   "description": "Validator/In-code documentation aid for express applications",
+  "repository": "https://github.com/dotkai/express-reqcheck.git",
   "main": "index.js",
   "scripts": {
     "test": "test:unit"
